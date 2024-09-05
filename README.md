@@ -1,6 +1,6 @@
 # Acme-Web-Design
 
-### Tools used
+## Tools used
 
 - HTML
 - GIT
